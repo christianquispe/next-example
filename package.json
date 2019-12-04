@@ -1,0 +1,24 @@
+{
+  "name": "next-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/christianquispe/next-example.git",
+  "author": "@christian <christianquispecamasca@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^9.1.4",
+    "next-routes": "^1.4.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-plugin-prettier": "^3.1.1",
+    "prettier": "1.19.1"
+  }
+}
