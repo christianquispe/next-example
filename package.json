@@ -6,7 +6,7 @@
   "author": "@christian <christianquispecamasca@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "next": "^9.1.4",
+    "next": "^11.1.0",
     "next-routes": "^1.4.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
